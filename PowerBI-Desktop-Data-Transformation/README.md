@@ -16,7 +16,7 @@ In this lab, you will learn how to use tools in PowerBI to import, append and tr
 ## Data
 
 This lab uses six data sets:
-- **Access Database** contains VanArsdel's US sales data.
+- An Access Database linked **[here](https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI/raw/master/Lab1/PowerBI%20AccessDB.zip)** contains VanArsdel's US sales data.
 - **CA Sales.csv** contains VanArsdel's Canadian sales data.
 - **FR Sales.csv** contains VanArsdel's French sales data.
 - **DE Sales.csv** contains VanArsdel's German sales data.
