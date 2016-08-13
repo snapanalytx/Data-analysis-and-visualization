@@ -28,26 +28,10 @@ Videos introducing the concepts behind data cleansing and manipulation as well d
 
 **Data Ingestion and Flow**
 
-- **[Data Flow in Azure ML](https://youtu.be/6BMuyNFhmbE)** talks about data sources, formats, and flow
-- **[Joining Data Sets](https://youtu.be/juLtsxbO34c)** discusses how to join the columns of a dataset
-- **[Ingesting and Joining Data](https://youtu.be/8F14hY-pti8)** is an example of joining two data sources from a data flow
-- **[Demo: Joins in R](https://youtu.be/irqCeaxnUS4)** is a demonstration of doing Joins using R
-- **[Demo: Joins in Python](https://youtu.be/AzWOqRwW18s)** is a demonstration of doing Joins using Python
-
-
-**Data Cleansing**
-
-- **[Overview of Data Cleansing](https://youtu.be/L4SuMpv40yM)** a brief overview of various data cleaning and tranformation processes.
-- **[Missing and Repeated Values](https://youtu.be/Io-K587gyIs)** explains how to handle the common issue of missing and repeated values
-- **[Demo: Handling Missing and Repeated Values](https://youtu.be/05mGVZ7SkrE)** this demo shows how to handle missing and repeated values
-- **[Feature Engineering](https://youtu.be/bLXzlPZvE3s)** details feature engineering which involves tranforming your dataset for better analysis
-- **[Outliers and Errors](https://youtu.be/5uV1D7TYYWU)** demonstrates how to determine outliers and errors in your data and how to address them
-- **[Finding Outliers in R](https://youtu.be/Wk4H5iVVoz4)** gives a practical demonstration of locating outliers using R
-- **[Finding Outliers in Python](https://youtu.be/ObUrF3n1scE)** gives a practical demonstration of locating outliers using Python
-- **[Demo: Handling Outliers in Azure ML](https://youtu.be/GttyTaqgXZ4)**shows an exmaple of handling outliers with the tools in Azure Machine Learning
-- **[Cleansing Data with R](https://youtu.be/552Owy13JJ8)** is a demonstration of data cleansing using R
-- **[Cleansing Data with Python](https://youtu.be/BOs6tcmwV3E)** is a demonstration of data cleansing using Python
-- **[Introduction to Data Scaling](https://youtu.be/BvVfdcznCqY)** discusses scaling data appropriately
-- **[Demo: Scaling Data in Azure ML](https://youtu.be/PtepPxBy1n0)** demos data scaling processes using Azure Machine Learning
-- **[Demo: Scaling Data using R](https://youtu.be/yjexueW50h4)** demos data scaling processes using R
-- **[Demo: Scaling Data Using Python](https://youtu.be/rw-y5_1tbRk)** demos data scaling processes using Python
+- **[Introduction to PowerBI Desktop](https://youtu.be/FksuOrds9js)** introduces PowerBI Desktop, and explore the visualization and analyis features it contains.
+- **[Connecting to a Database](https://youtu.be/_9p3o8xqbnc)** explains to how to connect PowerBI Desktop to data sources, in this case, an Access database.
+- **[Basic Transformations](https://youtu.be/pCZKwFQCDW0)** demonstrates how to perform basic data transformations in PowerBI.
+- **[Connecting to Files in a Folder](https://youtu.be/pG4rEjF2Fso)** demonstrates how to connect PowerBI Desktop to data sources stored locally in a folder.
+- **[Less Structured Data](https://youtu.be/IgNnyy_cTEY)** shows how to do rich transformations and visualizations with data that is formatted in complex or unorthodox ways.
+- **[Enter Data](https://youtu.be/Lb9_xZ-OZDk)** talks about how to create new tables in PowerBI Desktop manually.
+- **[Summary](https://youtu.be/Tg2nv3bRpbA) briefly summarizes the lessons of this module.
