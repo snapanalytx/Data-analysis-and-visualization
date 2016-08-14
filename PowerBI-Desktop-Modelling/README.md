@@ -28,7 +28,7 @@ This lab uses six data sets:
 
 Videos introducing the concepts behind data cleansing and manipulation as well data ingestion and flow can be found in the links below. 
 
-**Data Modlling in PowerBI Desktop**
+**Data Modelling in PowerBI Desktop**
 
 - **[Introduction](https://youtu.be/ebVQ9PZIw8Y)** 
 - **[Managing Data Relationships](https://youtu.be/VMRlK0DIAYM)**
