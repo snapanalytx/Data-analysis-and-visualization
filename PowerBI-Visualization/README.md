@@ -9,11 +9,12 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Labs
 
-**Lab 2 - Modelling Data** 
+**Lab 3 - Modelling Data** 
 
-In this lab, you will learn how to use tools in PowerBI to model data to calculate several measures.
+In this lab, you will create several reports using several visualizations in Power BI Desktop.
 
-The lab's starting point can be reached with the PowerBI linked in a zip file here **[here](https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI/blob/master/Lab2/Lab%202%20-%20Starting.zip?raw=true)** or uploaded in the repository.
+
+The lab's starting point can be reached with the PowerBI linked in a zip file here **[here](https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI/raw/master/Lab3/Lab%203%20-%20Starting.zip)** or uploaded in the repository.
 
 ## Data
 
@@ -28,19 +29,30 @@ This lab uses six data sets:
 
 Videos introducing the concepts behind data cleansing and manipulation as well data ingestion and flow can be found in the links below. 
 
-**Data Modelling in PowerBI Desktop**
+**Visualzing Your Data**
 
-- **[Introduction](https://youtu.be/ebVQ9PZIw8Y)** 
-- **[Managing Data Relationships](https://youtu.be/VMRlK0DIAYM)**
-- **[Managing Data Relationships pt.2](https://youtu.be/F3qIcKFQ2Ck)**
-- **[Creating Calculated Columns](https://youtu.be/0HY5x4iFjko)**
-- **[Optimizing Models for Reporting](https://youtu.be/3od_Q92INRI)**
-- **[Creating Calculated Measures](https://youtu.be/L56lNdBO9sc)**
-- **[Creating and Managing Hierarchies](https://youtu.be/BO-kRzLV_tA)**
-- **[Using Calculated Tables](https://youtu.be/bLLmFY3P54Y)**
-- **[Time Intelligence](https://youtu.be/As3KPPHn_ck)**
-- **[Manually Typing in a Data Table](https://youtu.be/91N0xjI6dOU)**
-- **[Summary](https://youtu.be/jV2uqvk03Nk)**
+- **[Introduction]()
+- **[Pie and Treemap](https://youtu.be/PkH27mTODls)**
+- **[Bar Chart with Line](https://youtu.be/tJjl3eswVbU)**
+- **[Trend Lines](https://youtu.be/Y2r5PkBwmtQ)**
+- **[Slicer](https://youtu.be/pri1S_4GqTk)**
+- **[Focus Mode and See Data](https://youtu.be/WylGQ6zIY8w)**
+- **[Map and Filled Map](https://youtu.be/8fFYsreNfWE)**
+- **[Table and Matrix](https://youtu.be/iJRR7fBACBA)**
+- **[Scatter Chart](https://youtu.be/xLQ_ZVScI60)**
+- **[Waterfall](https://youtu.be/hEImCZT2g60)**
+- **[Gauge, Card, and KPI](https://youtu.be/4_DfYnSEPMY)**
+- **[Modifying Colors](https://youtu.be/oNME83EAvLw)**
+- **[Shapes, Textboxes, and Images](https://youtu.be/ZWV90QMsI64)**
 
+**Working with Multiple Visualizations**
 
-
+- **[Page Layout and Formatting](https://youtu.be/pMNhORqxO6E)**
+- **[Visual Relationship](https://youtu.be/GQrV--EzBTY)**
+- **[Duplicate Page](https://youtu.be/infjHJS5DsY)**
+- **[Categories with No Data](https://youtu.be/4fhSMPCTfLo)**
+- **[Default Summarization and Categorization](https://youtu.be/qZ_EiaOR3k8)**
+- **[Positioning, Aligning, and Sorting Visuals](https://youtu.be/Hr7_XuxfI7s)**
+- **[Date Hierarchy](https://youtu.be/pVkxbwkrVqk)**
+- **[R - Visual Integration](https://youtu.be/pV78e9aYHXk)**
+- **[Summary](https://youtu.be/NIs_9LitW_4)**
