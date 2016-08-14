@@ -24,7 +24,8 @@ This lab uses six data sets:
 - **DE Sales.csv** contains VanArsdel's German sales data.
 - **MX Sales.csv** contains VanArsdel's Mexcian sales data.
 - **Country Population by Year.xlsx** contains population data.
-## Videos  
+
+## Data 
 
 Videos introducing the concepts behind data cleansing and manipulation as well data ingestion and flow can be found in the links below. 
 
