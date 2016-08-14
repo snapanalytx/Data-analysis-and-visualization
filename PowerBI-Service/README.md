@@ -1,6 +1,6 @@
 README for PowerBI Service 
 # Data Analysis and Visualization
-## Module 3: PowerBI Serivce
+## Module 4: PowerBI Serivce
 
 This folder contains introductory video lectures and slides to familiarize students with the basic techniques of visualizing real time data using natural language queries with PowerBI Service.
 
