@@ -13,7 +13,7 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 In this lab, you will learn how to use tools in PowerBI to model data to calculate several measures.
 
-The lab's starting point can be reached with the PowerBI linked in a zip file here **[here](https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI/blob/master/Lab2/Lab%202%20-%20Starting.zip?raw=true)** or uploaded in the repository.
+The lab's starting point can be reached with the PowerBI linked in a zip file here **[here](https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI/blob/master/Lab2/Lab%202%20-%20Starting.zip?raw=true)**
 
 ## Data
 
