@@ -1,20 +1,19 @@
-README for PowerBI Desktop Visualization 
+README for PowerBI Service 
 # Data Analysis and Visualization
-## Module 3: PowerBI Desktop Visualization
+## Module 3: PowerBI Serivce
 
-This folder contains introductory video lectures and slides to familiarize students with the basic techniques of modelling data using PowerBI Desktop.
+This folder contains introductory video lectures and slides to familiarize students with the basic techniques of visualizing real time data using natural language queries with PowerBI Service.
 
 ## Slides  
 
 
 ## Labs
 
-**Lab 3 - Modelling Data** 
+**Lab 4 - Refreshing Data** 
 
-In this lab, you will create several reports using several visualizations in Power BI Desktop.
+In this lab, you will upload a Power BI Desktop report to Power BI service. You will then pin several visualizations and create a dashboard. You will also use the natural language queries feature to create and pin new visualizations. To top it off, you will share this newly created dashboard and set a scheduled refresh so that the dashboard is always up-to-date. 
 
-
-The lab's starting point can be reached with the PowerBI linked in a zip file here **[here](https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI/raw/master/Lab3/Lab%203%20-%20Starting.zip)** or uploaded in the repository.
+The lab's starting point can be reached with the PowerBI linked in a zip file here **[here](https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI/raw/master/Lab4/Lab%204%20-%20Starting.zip)**.
 
 ## Data
 
@@ -29,30 +28,32 @@ This lab uses six data sets:
 
 Videos introducing the concepts behind data cleansing and manipulation as well data ingestion and flow can be found in the links below. 
 
-**Visualzing Your Data**
+**Working with PowerBI Service**
 
-- **[Introduction]()
-- **[Pie and Treemap](https://youtu.be/PkH27mTODls)**
-- **[Bar Chart with Line](https://youtu.be/tJjl3eswVbU)**
-- **[Trend Lines](https://youtu.be/Y2r5PkBwmtQ)**
-- **[Slicer](https://youtu.be/pri1S_4GqTk)**
-- **[Focus Mode and See Data](https://youtu.be/WylGQ6zIY8w)**
-- **[Map and Filled Map](https://youtu.be/8fFYsreNfWE)**
-- **[Table and Matrix](https://youtu.be/iJRR7fBACBA)**
-- **[Scatter Chart](https://youtu.be/xLQ_ZVScI60)**
-- **[Waterfall](https://youtu.be/hEImCZT2g60)**
-- **[Gauge, Card, and KPI](https://youtu.be/4_DfYnSEPMY)**
-- **[Modifying Colors](https://youtu.be/oNME83EAvLw)**
-- **[Shapes, Textboxes, and Images](https://youtu.be/ZWV90QMsI64)**
+- **[Introduction](https://youtu.be/YzjMjxdgx9k)**
+- **[Uploading to Power BI Service](https://youtu.be/C77FQXEl5Jc)**
+- **[Quick Insights](https://youtu.be/KPV1oP6UlFw)**
+- **[Configuring a Dashboard](https://youtu.be/MP8iI9tm2U0)**
+- **[Adding Textbox, Image Widgets](https://youtu.be/UyD-Nntf2kE)**
+- **[Featured and Favorite Dashboard](https://youtu.be/lxViZ0pU33Q)**
+- **[Filtering Dashboard](https://youtu.be/UseZgrDM07I)**
+- **[Dashboard Settings](https://youtu.be/v0RwHCs-M_M)**
+- **[Natural Language Queries](https://youtu.be/WbhBy7ER9EA)**
+- **[Featured Questions](Featured Questions)**
+- **[Sharing a Dashboard](Sharing a Dashboard)**
+- **[Focus Mode](https://youtu.be/YnJk9jGJlMo)**
+- **[Pinning a Live Page](https://youtu.be/BcGGrFyZGZI)**
+- **[Custom URL and Title](https://youtu.be/xnC3i128qQ8)**
+- **[TV Mode and Collapse Navigation](https://youtu.be/veEN0lBzlpw)**
+- **[TV Mode and Collapse Navigation](https://youtu.be/gauDt5ZV74I)**
+- **[Personal Gateway](https://youtu.be/Jd2T-6pMpcY)**
+- **[Publishing to Web](https://youtu.be/T9CIIsW2iME)**
+- **[Admin Portal](https://youtu.be/q5os4LF_iQM)**
 
-**Working with Multiple Visualizations**
+**Viewing PowerBI Dashboard**
 
-- **[Page Layout and Formatting](https://youtu.be/pMNhORqxO6E)**
-- **[Visual Relationship](https://youtu.be/GQrV--EzBTY)**
-- **[Duplicate Page](https://youtu.be/infjHJS5DsY)**
-- **[Categories with No Data](https://youtu.be/4fhSMPCTfLo)**
-- **[Default Summarization and Categorization](https://youtu.be/qZ_EiaOR3k8)**
-- **[Positioning, Aligning, and Sorting Visuals](https://youtu.be/Hr7_XuxfI7s)**
-- **[Date Hierarchy](https://youtu.be/pVkxbwkrVqk)**
-- **[R - Visual Integration](https://youtu.be/pV78e9aYHXk)**
-- **[Summary](https://youtu.be/NIs_9LitW_4)**
+- **[Viewing in Windows App](https://youtu.be/-AF_mGVAS0E)**
+- **[Viewing in Android App](https://youtu.be/fHjXXCoK9pc)**
+- **[Viewing in iPad](https://youtu.be/KZkowv9CZAg)**
+- **[Viewing in iPhone](https://youtu.be/TYevgxkk7Rg)**
+- **[Summary](https://youtu.be/zpyVKy3K-zA)**
