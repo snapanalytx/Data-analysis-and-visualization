@@ -2,13 +2,13 @@ README for Direct Connectivity
 # Data Analysis and Visualization
 ## Module 7: Direct Connectivity
 
-This folder contains introductory video lectures and slides to familiarize students with the basic techniques of visualizing data that is stored in Excel.
+This folder contains introductory video lectures and slides to familiarize students with the basic techniques of directly connecting to data stored in Azure storage services.
 
 ## Slides  
 
 ## Labs
 
-**Lab 6 - Direct Connectivity** 
+**Lab 7 - Direct Connectivity** 
 
 In this lab, you will connect to data hosted on Azure SQL database from Power BI service and Power BI desktop using direct connectivity.
 
