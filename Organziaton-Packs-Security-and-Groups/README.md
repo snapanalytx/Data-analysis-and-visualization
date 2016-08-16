@@ -1,34 +1,33 @@
-README for Working with Excel
+README for Organization Packs, Security and Groups
 # Data Analysis and Visualization
-## Module 5: Working with Excel
+## Module 6: Organization Packs, Security and Groups
 
-This folder contains introductory video lectures and slides to familiarize students with the basic techniques of visualizing data that is stored in Excel.
+This folder contains introductory video lectures and slides to familiarize students with the basic concepts of Organization Packs, Security and Groups in PowerBI.
 
 ## Slides  
 
 ## Labs
 
-**Lab 5 - Refreshing Data** 
+**Lab 6 - Content Packs** 
 
-In this lab, you will upload Excel files to Power BI service. First, you will upload an Excel file containing an Excel table, and create quick visualizations based on that data. Next, you will upload an Excel file that contains an Excel data model and Power View report, and use the converted report in Power BI service. 
+In this lab, you will create an organization content pack and share it with your organization. You will use and personalize the content pack, edit and re-share the content pack.
 
 ## Data
 
-This lab uses two data sets:
-- **Lab 5-Canada.xlsx**
-- **Lab 5-USA.xlsx** 
--
+This lab has no specific data sets.
+
 ## Videos  
 
-Videos explaining how to create visualizations using Excel can be found in the links below.
+Videos explaining the ideas behind Organization Packs, Security and Groups are found in the links below.
 
-**Connecting and Collaborating with Excel**
+**Working With Others**
 
-- **[Introduction](https://youtu.be/EKewOxnYkns)**
-- **[Importing Excel Data using Simple Table](https://youtu.be/HnUPUkwbgmI)**
-- **[Excel Workbook with Excel Data Model](https://youtu.be/iM06pSx_iNs)**
-- **[Connecting to Excel Workbook on OneDrive for Business](https://youtu.be/wLxPuD8D4XA)**
-- **[Pinning Excel Tables or Visuals](https://youtu.be/NGXsDlLK9dw)**
-- **[Analyzing Data in Excel](https://youtu.be/TGK0ewFA7Hk)**
-- **[Summary](https://youtu.be/HNhK9XMuyO4)**
+- **[Introduction](https://youtu.be/K8mzwGmASWI)**
+- **[Creating a Group](https://youtu.be/vBgHwxoZjRI)**
+- **[Creating a Content Pack](https://youtu.be/zoRBPxY_D3o)**
+- **[Using a Content Pack](https://youtu.be/cdEqTyhtEIU)**
+- **[Editing a Content Pack](https://youtu.be/x0nilsUn8K4)**
+- **[OneDrive for Business Integration](https://youtu.be/h830P7bk7bE)**
+- **[Row Level ](https://youtu.be/-CzkH9pDzbk)**
+- **[Summary](https://youtu.be/Ax4c_Sc0rsc)**
 
