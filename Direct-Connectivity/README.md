@@ -1,6 +1,6 @@
-README for Working with Excel
+README for Direct Connectivity 
 # Data Analysis and Visualization
-## Module 5: Working with Excel
+## Module 7: Direct Connectivity
 
 This folder contains introductory video lectures and slides to familiarize students with the basic techniques of visualizing data that is stored in Excel.
 
@@ -8,28 +8,23 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Labs
 
-**Lab 5 - Refreshing Data** 
+**Lab 6 - Direct Connectivity** 
 
-In this lab, you will upload Excel files to Power BI service. First, you will upload an Excel file containing an Excel table, and create quick visualizations based on that data. Next, you will upload an Excel file that contains an Excel data model and Power View report, and use the converted report in Power BI service. 
+In this lab, you will connect to data hosted on Azure SQL database from Power BI service and Power BI desktop using direct connectivity.
 
 ## Data
 
-This lab uses two data sets:
-- **Lab 5-Canada.xlsx**
-- **Lab 5-USA.xlsx** 
--
+This lab has no data sets.
+
 ## Videos  
 
-Videos explaining how to create visualizations using Excel can be found in the links below.
+Videos explaining how to use direct connectivity to connect PowerBI and Azure Databases and Data Warehouses.
 
-**Connecting and Collaborating with Excel**
+**Direct Connectivity**
 
 - **[Introduction](https://youtu.be/EKewOxnYkns)**
-- **[Importing Excel Data using Simple Table](https://youtu.be/HnUPUkwbgmI)**
-- **[Excel Workbook with Excel Data Model](https://youtu.be/iM06pSx_iNs)**
-- **[Connecting to Excel Workbook on OneDrive for Business](https://youtu.be/wLxPuD8D4XA)**
-- **[Pinning Excel Tables or Visuals](https://youtu.be/NGXsDlLK9dw)**
-- **[Analyzing Data in Excel](https://youtu.be/TGK0ewFA7Hk)**
-- **[Summary](https://youtu.be/HNhK9XMuyO4)**
-
-
+- **[Direct Connectivity to SQL Azure](https://youtu.be/ayhKcc4OzNI)**
+- **[Direct Connectivity to SSAS](https://youtu.be/knapeDm5JoI)**
+- **[Using SSAS Connector](https://youtu.be/jCmvSB1Mig0)**
+- **[SSAS MD Preview](https://youtu.be/MGjr0sRLfoE)**
+- **[Summary](https://youtu.be/p7rwFHRTtDM)**
