@@ -1,30 +1,30 @@
-README for Direct Connectivity 
+README for Developer API
 # Data Analysis and Visualization
-## Module 7: Direct Connectivity
+## Module 8: Developer API
 
-This folder contains introductory video lectures and slides to familiarize students with the basic techniques of directly connecting to data stored in Azure storage services.
+This folder contains introductory video lectures and slides to familiarize students with the basic funcitonality of the PowerBI Developer API.
 
 ## Slides  
 
 ## Labs
 
-**Lab 7 - Direct Connectivity** 
+**Lab 8 - Developer API** 
 
-In this lab, you will connect to data hosted on Azure SQL database from Power BI service and Power BI desktop using direct connectivity.
+In this lab, you will download Power BI custom visuals from the visuals gallery, and use them on your reports.
 
 ## Data
 
-This lab has no data sets.
+This lab uses the PowerBI file linked **[here](https://github.com/MicrosoftLearning/Analyzing-Visualizing-Data-PowerBI/raw/master/Lab8/Lab%208%20-%20Starting.zip)**
 
 ## Videos  
 
-Videos explaining how to use direct connectivity to connect PowerBI and Azure Databases and Data Warehouses.
+Videos explaining how to use the PowerBI Developer API to add custom visuals are found in the links below.
 
-**Direct Connectivity**
+**Developer API**
 
-- **[Introduction](https://youtu.be/EKewOxnYkns)**
-- **[Direct Connectivity to SQL Azure](https://youtu.be/ayhKcc4OzNI)**
-- **[Direct Connectivity to SSAS](https://youtu.be/knapeDm5JoI)**
-- **[Using SSAS Connector](https://youtu.be/jCmvSB1Mig0)**
-- **[SSAS MD Preview](https://youtu.be/MGjr0sRLfoE)**
-- **[Summary](https://youtu.be/p7rwFHRTtDM)**
+- **[Introduction](https://youtu.be/5513RGP6QBw)**
+- **[Interactive API Console](https://youtu.be/KJBCW-FaAiY)**
+- **[Registering a Client App and Embedding a Tile](https://youtu.be/ZYHpuzBFSu0)**
+- **[Creating Custom Visuals](https://youtu.be/qlbBmk5ieP4)**
+- **[Using Custom Visuals](https://youtu.be/EIwMezn2oEM)**
+- **[Summary](https://youtu.be/fuLKQmrvOng)**
